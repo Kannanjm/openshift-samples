@@ -1,10 +1,8 @@
-<!DOCTYPE html>
 <html>
-<body>
-
-<h1>S2I DEMO</h1>
-
-<?php
-
-</body>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <?php echo '<p>Test S2I Demo</p>'; ?> 
+ </body>
 </html>
